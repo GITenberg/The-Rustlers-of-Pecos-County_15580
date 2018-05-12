@@ -18,6 +18,8 @@ description: Acclaimed Western writer Zane Grey used the Wild West as his creati
   palette. The novel The Rustlers of Pecos County focuses on the hard-living, hard-working
   cowboys and wranglers who cared for livestock -- and sometimes obtained the animals
   by nefarious means -- on the wide open plains of Texas.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15580#The-Rustlers-of-Pecos-County
 gutenberg_bookshelf: Western
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
