@@ -1,0 +1,37 @@
+_repo: The-Rustlers-of-Pecos-County_15580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Acclaimed Western writer Zane Grey used the Wild West as his creative
+  palette. The novel The Rustlers of Pecos County focuses on the hard-living, hard-working
+  cowboys and wranglers who cared for livestock -- and sometimes obtained the animals
+  by nefarious means -- on the wide open plains of Texas.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2005-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Outlaws -- Fiction'
+title: The Rustlers of Pecos County
+url: http://www.gutenberg.org/ebooks/15580
